@@ -52,6 +52,3 @@ The **SVM model** achieves **98.25% accuracy**, making it highly effective for *
 ## 📜 License  
 This project is licensed under the **MIT License**.  
 
----
-
-Let me know if you need modifications! 🚀
