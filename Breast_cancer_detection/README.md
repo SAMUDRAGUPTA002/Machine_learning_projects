@@ -21,7 +21,7 @@ The **Breast Cancer Wisconsin (Diagnostic) Dataset** is used, which includes:
 ## ⚙️ Installation & Setup  
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/breast-cancer-svm.git  
+git clone https://github.com/SAMUDRAGUPTA002/Machine_learning_projects.git
 cd breast-cancer-svm  
 ```  
 2️⃣ **Install dependencies**  
