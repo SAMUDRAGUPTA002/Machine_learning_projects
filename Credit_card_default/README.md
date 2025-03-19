@@ -32,7 +32,7 @@ The dataset consists of **10,000** records of credit card users, including:
 ### ⚙️ Installation & Setup  
 #### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/SAMUDRAGUPTA002/Credit-Card-Default-ML.git  
+git clone https://github.com/SAMUDRAGUPTA002/Machine_learning_projects.git  
 cd Credit-Card-Default-ML  
 ```
 #### 2️⃣ Install dependencies  
